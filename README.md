@@ -1,4 +1,7 @@
-sketch-pad
-==========
+# JS/jQuery Excercise: Sketch Pad
 
-jQuery learn
+My implementation of Odin Projects JS/Jquery excerise.
+
+Details:
+[http://theodinproject.com/](http://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery)
+
